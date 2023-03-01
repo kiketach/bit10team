@@ -57,7 +57,7 @@ Paleta de colores
 3. Canva
 
 
-## Autores
+## Developers
 - Andrea Zuluaga ✨
 - Enrique Abril 😎
 - Luis morales 😁
