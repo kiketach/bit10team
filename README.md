@@ -27,8 +27,12 @@ Tipografías que vamos a usar en el proyecto:
 
 Paleta de colores
 1. #F8EDE3
+![F8EDE3](https://user-images.githubusercontent.com/116774890/222218611-52e7d86a-b666-4601-80cb-493b312bbdc7.png)
+
 2. #DFD3C3
+
 3. #D0B8A8
+
 4. #7D6E83
 
 ## Tecnologias a utilizar
