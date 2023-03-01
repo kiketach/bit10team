@@ -26,10 +26,10 @@ Tipografías que vamos a usar en el proyecto:
 2. Lato
 
 Paleta de colores
-1. F8EDE3
-2. DFD3C3
-3. D0B8A8
-4. 7D6E83
+1. #F8EDE3
+2. #DFD3C3
+3. #D0B8A8
+4. #7D6E83
 
 ## Tecnologias a utilizar
 1. lenguaje de programación: javascript
