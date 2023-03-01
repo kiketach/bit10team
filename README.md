@@ -33,9 +33,18 @@ Paleta de colores
 
 2. #DFD3C3
 
+
+![#DFD3C3](https://user-images.githubusercontent.com/116774890/222219593-8f290365-aa83-4b59-b419-9364435b4e07.png)
+
 3. #D0B8A8
 
+
+![#D0B8A8](https://user-images.githubusercontent.com/116774890/222219636-271e389b-481e-4bad-803b-bc7b0a17c449.png)
+
 4. #7D6E83
+
+
+![#7D6E83](https://user-images.githubusercontent.com/116774890/222219650-f3225b0e-a73d-4881-8dac-fe2cd9c5a3b3.png)
 
 ## Tecnologias a utilizar
 1. lenguaje de programación: javascript
