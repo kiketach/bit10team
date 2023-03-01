@@ -13,13 +13,13 @@ Random pictures of coffee / https://coffee.alexflipnote.dev/
 ![Logo Coffee Devs 2](https://user-images.githubusercontent.com/116774890/222212661-72b94db2-a65b-404f-9880-6becfed98d4e.png)
 
 
-# Delegados
+## Delegados
 1. Repositorio y despliegue: Enrique Abril.
 2. Documentacion: Luis Morales.
 3. Wireframe de alta: Andrea Zuluaga.
 
 
-# Estilos
+## Estilos
 Tipografías que vamos a usar en el proyecto:
 -Google Fonts
 1. Tilt Warp
@@ -51,7 +51,7 @@ Paleta de colores
 2. HTML y CSS
 4. frameworks : React, Bootstrap, Font Awesome.
 
-# Herramientas complementarias
+## Herramientas complementarias
 1. Trello
 2. Ninja mock
 3. Canva
