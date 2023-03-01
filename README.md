@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # DevCoders
 
 
@@ -56,9 +57,18 @@ luis morales 😁
 =======
 # bit10team:
 >>>>>>> dab9a0f (test)
+=======
+# bit10team:
+>>>>>>> aade0c3 (img)
 
 # Developers:
 Enrique Abril 
 Andrea zuluaga
+<<<<<<< HEAD
 =======
 >>>>>>> 9b82c69 (clear)
+=======
+Luis Morales
+
+!(https://ibb.co/Hn7dM5W)
+>>>>>>> aade0c3 (img)
