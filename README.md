@@ -1,4 +1,1 @@
-# bit10team:
-
-# Developers:
-Enrique Abril 
+# Enrique Abril
