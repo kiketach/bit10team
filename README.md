@@ -1,2 +1,4 @@
-# Enrique Abril
-# Luis Morales 
+# bit10team
+
+# Developers:
+Enrique Abril 
