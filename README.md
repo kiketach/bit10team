@@ -58,6 +58,6 @@ Paleta de colores
 
 
 ## Autores
-Andrea zuluaga ✨
-enrique 😎
-luis morales 😁
+- Andrea Zuluaga ✨
+- Enrique Abril 😎
+- Luis morales 😁
