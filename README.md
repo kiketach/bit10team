@@ -53,7 +53,6 @@ enrique 😎
 luis morales 😁
 
 
-=======
-# Enrique Abril
-# Luis Morales 
->>>>>>> 62cb651 (Actualizacion)
+# Developers:
+Enrique Abril 
+Andrea zuluaga
