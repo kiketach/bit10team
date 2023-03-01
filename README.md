@@ -1,7 +1,6 @@
 # DevCoders
 
 
-
 Nuestra aplicación cuenta con una amplia biblioteca de imágenes de alta calidad de diferentes tipos de cafés, tazas, métodos de preparación, lugares de consumo y detalles interesantes relacionados con la cultura del café en todo el mundo.
 
 Cada vez que se abra la aplicación, se mostrará una imagen aleatoria de café para deleitar los sentidos y inspirar a los usuarios a probar nuevos cafés y formas de disfrutarlos.
