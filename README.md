@@ -52,3 +52,6 @@ enrique 😎
 luis morales 😁
 
 
+# Developers:
+Enrique Abril 
+Andrea zuluaga
