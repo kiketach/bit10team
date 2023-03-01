@@ -1,4 +1,3 @@
-# DevCoders
 
 ![Logo DevCoders](https://user-images.githubusercontent.com/116774890/222029888-876bc4b8-d523-462f-a86a-8742c4494ec7.png)
 
