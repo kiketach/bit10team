@@ -1,5 +1,7 @@
+# GRUPO DE DESARROLLADORES:
 
 ![Logo DevCoders](https://user-images.githubusercontent.com/116774890/222029888-876bc4b8-d523-462f-a86a-8742c4494ec7.png)
+
 
 
 Nuestra aplicación cuenta con una amplia biblioteca de imágenes de alta calidad de diferentes tipos de cafés, tazas, métodos de preparación, lugares de consumo y detalles interesantes relacionados con la cultura del café en todo el mundo.
@@ -12,27 +14,22 @@ Random pictures of coffee / https://coffee.alexflipnote.dev/
 
 
 # Delegados
-
 1. Repositorio y despliegue: Enrique Abril.
-
 2. Documentacion: Luis Morales.
-
 3. Wireframe de alta: Andrea Zuluaga.
 
 
 # Estilos
-
 Tipografías que vamos a usar en el proyecto:
 -Google Fonts
 1. Tilt Warp
 2. Lato
 
 Paleta de colores
--F8EDE3
--DFD3C3
--D0B8A8
--7D6E83
-wiframe de baja
+1. F8EDE3
+2. DFD3C3
+3. D0B8A8
+4. 7D6E83
 
 ## Tecnologias a utilizar
 1. lenguaje de programación: javascript
@@ -46,7 +43,6 @@ wiframe de baja
 
 
 ## Autores
-
 Andrea zuluaga ✨
 enrique 😎
 luis morales 😁
