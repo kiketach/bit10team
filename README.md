@@ -50,7 +50,3 @@ wiframe de baja
 Andrea zuluaga ✨
 enrique 😎
 luis morales 😁
-
-Andrea zuluaga ✨
-enrique 😎
-luis morales 😁
