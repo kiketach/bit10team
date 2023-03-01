@@ -2,8 +2,6 @@
 
 ![Logo DevCoders](https://user-images.githubusercontent.com/116774890/222029888-876bc4b8-d523-462f-a86a-8742c4494ec7.png)
 
-
-
 Nuestra aplicación cuenta con una amplia biblioteca de imágenes de alta calidad de diferentes tipos de cafés, tazas, métodos de preparación, lugares de consumo y detalles interesantes relacionados con la cultura del café en todo el mundo.
 
 Cada vez que se abra la aplicación, se mostrará una imagen aleatoria de café para deleitar los sentidos y inspirar a los usuarios a probar nuevos cafés y formas de disfrutarlos.
@@ -11,6 +9,8 @@ Cada vez que se abra la aplicación, se mostrará una imagen aleatoria de café 
 La aplicación es fácil de usar y está diseñada con una interfaz intuitiva para que los usuarios puedan navegar sin dificultad y disfrutar de las imágenes de café de manera rápida y sencilla.
 
 Random pictures of coffee / https://coffee.alexflipnote.dev/
+
+![Logo Coffee Devs 2](https://user-images.githubusercontent.com/116774890/222212661-72b94db2-a65b-404f-9880-6becfed98d4e.png)
 
 
 # Delegados
