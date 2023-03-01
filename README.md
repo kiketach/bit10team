@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # DevCoders
 
 
@@ -59,3 +60,5 @@ luis morales 😁
 # Developers:
 Enrique Abril 
 Andrea zuluaga
+=======
+>>>>>>> 9b82c69 (clear)
