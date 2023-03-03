@@ -4,6 +4,7 @@ import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import { Homepage } from "./Components/Homepage";
 import { Interactua } from "./Components/Interactua";
 import { TodoList } from "./Components/TodoList";
+import { TiposCafe } from "./Components/TiposCafe";
 
 function App() {
   return (
@@ -17,6 +18,9 @@ function App() {
             <Link className="px-3" to="/homepage">
               Inicio
             </Link>
+            <Link className="px-3" to="/TiposCafe">
+              Tipos de Bebidas con Café
+            </Link>
             <Link className="px-3" to="/interactua">
               Fotos Divertidas del Café
             </Link>
@@ -29,6 +33,7 @@ function App() {
             <Route path="/homepage" element={<Homepage />}></Route>
             <Route path="/interactua" element={<Interactua />}></Route>
             <Route path="/todolist" element={<TodoList />}></Route>
+            <Route path="/tiposcafe" element={<TiposCafe />}></Route>
           </Routes>
         </BrowserRouter>
       </div>
