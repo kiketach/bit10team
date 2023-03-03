@@ -1,48 +1,10 @@
-import React from "react";
-import { useState, useEffect } from "react";
+import React from 'react'
 
 export const Homepage = () => {
-  const [imageUrl, setImageUrl] = useState("");
-  const [isLoading, setIsLoading] = useState(true);
-
-  useEffect(() => {
-    fetch("https://coffee.alexflipnote.dev/random.json")
-      .then((response) => response.json())
-      .then((data) => {
-        setImageUrl(data.file);
-        setIsLoading(false);
-      });
-  }, []);
-
-  const handleClick = () => {
-    setIsLoading(true);
-    fetch("https://coffee.alexflipnote.dev/random.json")
-      .then((response) => response.json())
-      .then((data) => {
-        setImageUrl(data.file);
-        setIsLoading(false);
-      });
-  };
   return (
     <>
-    <div>
-      <h5 className="text-center">Observa aqui imagenes divertidas del café</h5>
-      <div className="text-center">
-        <img src={imageUrl} width={200} height={200} alt="Cup of coffee" />
-      </div>{" "}
-      <br />
-      <div className="text-center">
-        <button
-          className="btn btn-info"
-          onClick={handleClick}
-          disabled={isLoading}
-        >
-          {isLoading ? "Obteniendo Imagen..." : "Generar imagen nueva"}
-        </button>{" "}
-        <br />
-      </div>
-    </div> <br />
-    <div className="text-center">Te ofrecemos Imagenes divertidas y frescas del tema que mas nos gusta! <strong>El Café</strong></div>
+    <h1 className='text-center'>Coffee Dev's</h1>
+    <img src="https://images.pexels.com/photos/1307698/pexels-photo-1307698.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="entrada al cafe" style={{height:'100vh',width:'100vw',objectFit:'cover'}} />
     </>
-  );
-};
+  )
+}
