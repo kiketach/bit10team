@@ -12,7 +12,12 @@
     "bootstrap": "^5.2.3",
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.2",
+<<<<<<< HEAD
     "react-dom": "^18.2.0"
+=======
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.2"
+>>>>>>> dc9959cbe2ace4ca6254da6d65278040aa484fc5
   },
   "devDependencies": {
     "@types/react": "^18.0.27",
