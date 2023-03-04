@@ -1,10 +1,7 @@
 import React from 'react'
 
-export const homePage = () => {
-    
-
-
-return (
-    <div>homePage</div>
-)
+export const Homepage = () => {
+  return (
+    <div>Homepage</div>
+  )
 }
