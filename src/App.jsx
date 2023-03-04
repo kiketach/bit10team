@@ -15,7 +15,7 @@ function App() {
       <div className="container">
         <BrowserRouter>
           <nav className="py-4 text-center">
-            <Link className="px-3" to="/homepage">
+            <Link className="px-3" to="/">
               Inicio
             </Link>
             <Link className="px-3" to="/TiposCafe">
@@ -30,7 +30,7 @@ function App() {
           </nav>
           <hr />
           <Routes>
-            <Route path="/homepage" element={<Homepage />}></Route>
+            <Route path="/" element={<Homepage />}></Route>
             <Route path="/interactua" element={<Interactua />}></Route>
             <Route path="/todolist" element={<TodoList />}></Route>
             <Route path="/tiposcafe" element={<TiposCafe />}></Route>
