@@ -29,7 +29,7 @@ export const TodoList = () => {
     setTasks(newTasks);
   };
   return (
-    <div>
+    <div className="text-center">
       <h4>Queremos saber cual es tu tipo de bebida con café Favorita</h4>
       <ul>
         {tasks.map((task, index) => (
@@ -56,7 +56,7 @@ export const TodoList = () => {
           </li>
         ))}
       </ul>
-      <div>
+      <div className="container text-center">
         <input
           type="text"
           placeholder="Escribe aqui"
@@ -64,7 +64,9 @@ export const TodoList = () => {
           onChange={(e) => setNewTask(e.target.value)}
         />
         <br /> <br />
-        <button onClick={handleAddTask}>Agregar tu Bebida Favorita</button>
+        <div className="container text-center">
+        <button className="btn btn-warning" onClick={handleAddTask}>Agregar tu Bebida Favorita</button>
+        </div>
       </div>
     </div>
   );

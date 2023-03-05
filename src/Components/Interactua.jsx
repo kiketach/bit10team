@@ -35,7 +35,7 @@ export const Interactua = () => {
         <br />
         <div className="text-center">
           <button
-            className="btn btn-info"
+            className="btn btn-warning"
             onClick={handleClick}
             disabled={isLoading}
           >

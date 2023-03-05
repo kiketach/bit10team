@@ -24,7 +24,7 @@ export const TiposCafe = () => {
       id: 3,      
       title: "Cortado o macchiato",      
       description: "Uno de los más demandados por lo general, llamamos cortado o macchiato a un tipo de café espresso a la cual se le agrega una ligera cantidad de leche, que manche o tiña el café.",      
-      imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpg7Fbdor19dfrND4eI6DORZ4_2lJKHXCp-g&usqp=CAU",      
+      imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIRT4chaI51LvoV3p_Ell_b2RdMXKK2IjMig&usqp=CAU",      
       width: 100,      
       height: 300,    
     }, 
@@ -32,7 +32,7 @@ export const TiposCafe = () => {
     id: 4,      
     title: "Americano",      
     description: "El café americano es un tipo de café derivado del espresso el cual se caracteriza por añadir una cantidad de agua mucho mayor de lo habitual en este tipo de preparación, teniendo como resultado un producto con un sabor menos potente y algo más aguado, algo que lo hace menos amargo y facilita un sabor dulce. En este caso se realizaría primero un espresso y a este se le añadiría externamente agua hirviendo.",      
-    imgUrl: "data:image/jpeg;base64,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",      
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5bVNd4f7SH11CWRRPCvUNx8mVdykBwcPjw4ahSAT4J0ciklNbPepDt3BRwKgI5fnIw0Y&usqp=CAU",      
     width: 100,      
     height: 300,    
   }, 
@@ -48,7 +48,7 @@ export const TiposCafe = () => {
     id: 6,      
     title: "Carajillo",      
     description: "El carajillo es un café preparado como un espresso al cual se le añade además de la infusión una cierta cantidad de alguna bebida espirituosa, siendo lo más general el brandy, el orujo o el whisky. Para ello generalmente primero se hecha el licor previamente calentado, al cual se le añadirá el café y posteriormente se le pueden agregar otros elementos como azúcar. Si se emplea brandy junto con ralladura de limón, pasamos a tener el llamado café brulé.",      
-    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCJ_sDl9SMFxg51svCuBSg53uzzDTKq4PRjg&usqp=CAU",      
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4u5RLB0E2gf3XWujhfDfBo1V7M9x5zneZvw&usqp=CAU",      
     width: 100,      
     height: 300,    
   }, 
@@ -62,7 +62,7 @@ export const TiposCafe = () => {
 
   return (
     <>
-      <div className="search-container">
+      <div className="container">
         <input
           type="text"
           placeholder="Buscar..."
@@ -71,7 +71,7 @@ export const TiposCafe = () => {
         />
       </div>
       <hr />
-      <div className="row row-cols-1 row-cols-md-3 g-4">
+      <div className="row row-cols-1 row-cols-md-3 g-4 container-fluid">
         {filteredCoffeeList.map((coffee) => (
           <div key={coffee.id} className="col">
             <div className="card">
